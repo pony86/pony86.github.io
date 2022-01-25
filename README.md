@@ -22,22 +22,6 @@ ai-research渐进完成多平台（Transformer平台、强化学习平台、图�
 
 研究金融模拟的各种变种及其应用。
 
-### markdown backup
+### 文档
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[中文文档](https://pony86-ai.readthedocs.io/)
